@@ -4,5 +4,4 @@ numpy
 matplotlib
 seaborn
 requests
-sklearn
-pickle
+scikit-learn
