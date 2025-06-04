@@ -1,4 +1,6 @@
-numpy
+streamlit
 pandas
-scikit-learn
-flask
+numpy
+matplotlib
+seaborn
+requests
